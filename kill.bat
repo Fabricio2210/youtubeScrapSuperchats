@@ -1,0 +1,1 @@
+TASKKILL /F /IM "chat_downloader.exe"
